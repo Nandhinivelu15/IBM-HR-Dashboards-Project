@@ -9,12 +9,14 @@ Welcome to the IBM Dashboard project! This dashboard provides a visual interface
 - **User-Friendly Interface**: Intuitive design for a smooth user experience.
 
 ## Objective: 
-    Dashboard 1 -The overall effectiveness of the workforce and long-term stability of the business.
-    Dashboard 2 – The reasons of employees leaving the company.
-    Dashboard 3 – To develop the Compensation Team.
+
+- **Dashboard 1**: The overall effectiveness of the workforce and long-term stability of the business.
+- **Dashboard 2**: The reasons of employees leaving the company.
+- **Dashboard 3**: To develop the Compensation Team.
     
-## Month/Year: 
-    September-2023. 
+## Month/Year:
+
+- **September-2023**. 
     
 --	Used MS Excel to create the dashboards and for data analysis. 
 --  Developed and designed three HR data dashboards for IBM, enhancing data driven decision-making and insights for HR management. 
