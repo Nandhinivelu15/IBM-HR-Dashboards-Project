@@ -18,8 +18,7 @@ Welcome to the IBM Dashboard project! This dashboard provides a visual interface
 
 - **September-2023**. 
     
---	Used MS Excel to create the dashboards and for data analysis. 
---  Developed and designed three HR data dashboards for IBM, enhancing data driven decision-making and insights for HR management. 
+-- Used Ms Excel to conduct in-depth analysis of IBM's HR data and designed interactive dashboards to provide a comprehensive overview of key metrics and trends within the organization's workforce.
 
 ## Contact
 
